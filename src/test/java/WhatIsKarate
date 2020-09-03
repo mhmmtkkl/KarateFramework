@@ -1,0 +1,38 @@
+
+Karate Framework
+
+    URL(URI) is an end point.
+
+    Postman is for manual API.
+
+    Automation I am using rest assured libraries.
+
+    Pojo - Dealing with JAVA
+
+    Karate framework
+
+        Cucumber with rest assured libraries.
+
+        It is easier to automation API easier saving the time from JAVA code.
+
+        Easy to understand.
+
+
+
+    Can you tell me about your API testing after requirements?
+
+        I do not know the end point.
+
+        When we start working on the API user story. First developer is working on the story and after he done with it.
+        Developer is giving me the story.
+
+            While developer give the story he should provide these information: end point, parameters rules(if there is)
+            According to these information.
+            First I am testing in the postman(manual API)
+            If it is passing
+            Then I am testin in the Automation.
+
+            After I am done with testing I am providing my screen shots and results in the JIRA.
+
+
+
